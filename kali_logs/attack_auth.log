@@ -1,0 +1,14 @@
+Feb 17 00:21:11 kali sshd[10370]: Server listening on 0.0.0.0 port 22.
+Feb 17 00:21:11 kali sshd[10370]: Server listening on :: port 22.
+Feb 17 00:33:50 kali sshd[10370]: drop connection #10 from [10.0.2.15]:48150 on [10.0.2.15]:22 Maxstartups
+Feb 17 00:34:03 kali sshd[10370]: drop connection #15 from [10.0.2.15]:32894 on [10.0.2.15]:22 Maxstartups
+Feb 17 00:34:03 kali sshd[10370]: drop connection #14 from [10.0.2.15]:32906 on [10.0.2.15]:22 Maxstartups
+Feb 17 00:34:03 kali sshd[10370]: drop connection #14 from [10.0.2.15]:32916 on [10.0.2.15]:22 Maxstartups
+Feb 17 00:34:05 kali sshd[10370]: drop connection #15 from [10.0.2.15]:32940 on [10.0.2.15]:22 Maxstartups
+Feb 17 00:34:05 kali sshd[10370]: drop connection #14 from [10.0.2.15]:32958 on [10.0.2.15]:22 penalty: failed authentication
+Feb 17 00:34:05 kali sshd[10370]: drop connection #14 from [10.0.2.15]:32972 on [10.0.2.15]:22 penalty: failed authentication
+Feb 17 00:34:05 kali sshd[10370]: drop connection #13 from [10.0.2.15]:32974 on [10.0.2.15]:22 penalty: failed authentication
+Feb 17 00:34:05 kali sshd[10370]: drop connection #13 from [10.0.2.15]:32986 on [10.0.2.15]:22 penalty: failed authentication
+Feb 17 00:34:05 kali sshd[10370]: drop connection #13 from [10.0.2.15]:32990 on [10.0.2.15]:22 penalty: failed authentication
+Feb 17 00:34:05 kali sshd[10370]: drop connection #13 from [10.0.2.15]:33000 on [10.0.2.15]:22 penalty: failed authentication
+Feb 17 00:34:05 kali sshd[10370]: drop connection #13 from [10.0.2.15]:33012 on [10.0.2.15]:22 penalty: failed authentication
